@@ -106,7 +106,7 @@ All work and no play makes jack a dull boy! Games are a must to enjoy and learn 
   - [ ] [Map Maker](#map-maker)
   - [ ] [Battleship](#battleship)
   - [ ] [Flappy Bird](#flappy-bird)
-  - [x] [Tic-Tac-Toe](#tic-tac-toe)
+  - [X] [Tic-Tac-Toe](#tic-tac-toe)
   - [ ] [Memory Puzzle](#memory-puzzle)
   - [ ] [Physics Engine](#physics-engine)
   - [ ] [Flappy Bird AI](#flappy-bird-ai)
