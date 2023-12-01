@@ -794,6 +794,7 @@ Build a CLI app for tic-tac-toe or a graphical interface. One of the interesting
 **Suggested Language**:  
 **Suggested Frameworks/Tools**:  
 **Example Implementation**:
+***Made with:*** HTML/CSS/JS
 
 ### Memory Puzzle
 
